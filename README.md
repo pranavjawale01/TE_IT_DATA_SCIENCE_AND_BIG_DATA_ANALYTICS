@@ -1,9 +1,7 @@
-🚧 This repository is currently under development! 🛠️ Stay tuned for updates and improvements.
+# 🚧 This repository is currently under development! 🛠️ Stay tuned for updates and improvements.
 
 # TE_IT_DATA_SCIENCE_AND_BIG_DATA_ANALYTICS
 
-
-# Laboratory Assignments Repository
 
 This repository contains the laboratory assignments for various topics related to Data Science & Big Data Analytics.
 
